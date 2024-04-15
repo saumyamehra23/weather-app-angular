@@ -10,7 +10,6 @@ Here is a working live demo: https://lwairore.github.io/angular-weather-app/
 
 ![This image displays the homepage for Angular Weather app](src/assets/weather_app.png)
 
-# [Usage](https://lwairore.github.io/angular-weather-app/)
 ## Development
 Want to contribute? Great!
 
